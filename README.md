@@ -76,9 +76,7 @@ Following requirements should be met:
 
 These are the different controllers that are used to manage the data in backend.
 
-<img alt = "Admin Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2609).png">
 
-<img alt = "Customer Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2612).png">
 
 1. User will have three choice to perform certain operations
 
